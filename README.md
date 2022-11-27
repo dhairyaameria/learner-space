@@ -7,7 +7,6 @@ Technologies Used : ReactJS, Redux, Nodejs, Express, Firebase, Material UI, Boot
 
 ![image](https://user-images.githubusercontent.com/71331819/196036991-b2f2f660-729a-4555-9366-a894b27eeeba.png)
 
-![image](https://user-images.githubusercontent.com/71331819/196037003-75a1452e-d3d4-4af8-8d36-02f36ed3664e.png)
 
 ![image](https://user-images.githubusercontent.com/71331819/196037018-259a8d47-7d17-4aae-afe6-bdf71d5c5dbe.png)
 
